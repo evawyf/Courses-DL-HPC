@@ -1,0 +1,3 @@
+
+
+To clarify, the binary cross entropy loss function still works for training the MNIST VAE because it gives the minimum value when the prediction is equal to the ground truth. In this case, that would be when outputs == inputs. Unlike binary classification problems though where the ground truth is only either 0 or 1, this minimum value won't necessarily be equal to 0 because the normalized MNIST pixel values are in the range [0, 1].
