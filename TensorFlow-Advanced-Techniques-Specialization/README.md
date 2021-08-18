@@ -3,11 +3,6 @@
 
 This is an advanced course after completed the [DeepLearning.AI TensorFlow Developer Professional Certificate](). It combines many advanced concepts of deep learning with tensorflow code. 
 
-<object data="https://evawyf.com/cert/Coursera_5YBLUA6YMXQG.pdf" type="application/pdf" width="800px" height="680px">
-    <embed src="https://evawyf.com/cert/Coursera_5YBLUA6YMXQG.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://evawyf.com/cert/Coursera_5YBLUA6YMXQG.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
 
 ## Courses
 
