@@ -28,24 +28,4 @@ This is an advanced course after completed the [DeepLearning.AI TensorFlow Devel
 	3. Variational AutoEncoders (VAEs)
 	4. GANs
 
-## Note C1: Custom Models, Layers, and Loss Functions with TensorFlow
-
-Key concept: 
-
-
-## Note C2: Custom and Distributed Training with TensorFlow
-
-Key concept: 
-
-
-## Note C3: Advanced Computer Vision with TensorFlow
-
-Key concept:
-
-
-## Note C4: Generative Deep Learning with TensorFlow 
-
-Key concept:
-
-
 
